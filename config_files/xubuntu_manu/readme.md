@@ -7,4 +7,4 @@ Is necessary to install a few things:
  
  - Numix circle icons
  
- For personal backup, not recommended to use
+For personal backup, not recommended to use
