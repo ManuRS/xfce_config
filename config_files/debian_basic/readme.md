@@ -2,8 +2,13 @@
 
 Instructions:
  - Download script and zip
- - Delete ~/.config/xfce4 folder
+ - Run into a terminal:
+ 
+ ```bash
+ rm -rf ~/.config/xfce4/
+```
  - Reset computer
+ - After user login select default config
  - Run into a terminal:
  
  ```bash
