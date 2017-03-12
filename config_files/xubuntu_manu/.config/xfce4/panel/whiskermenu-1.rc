@@ -1,5 +1,5 @@
 favorites=albert.desktop,midori.desktop,google-chrome.desktop,exo-file-manager.desktop,atom.desktop,sublime_text.desktop,code.desktop,spotifywebplayer.desktop,gmusicbrowser.desktop,vlc.desktop,spotify.desktop,gnome-calculator.desktop,libreoffice-writer.desktop,hexchat.desktop,telegramdesktop.desktop,birdie.desktop,org.baedert.corebird.desktop,pavucontrol.desktop,xfce-settings-manager.desktop
-recent=xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,xfpanel-switch.desktop,xfce-ui-settings.desktop,gtk-theme-config.desktop,xfce4-settings-editor.desktop,exo-file-manager.desktop,Xfce-Theme-Manager.desktop,sublime_text.desktop,pidgin.desktop
+recent=xfce-wmtweaks-settings.desktop,xfce-ui-settings.desktop,gnome-calculator.desktop,sublime_text.desktop,xfce-wm-settings.desktop,xfpanel-switch.desktop,gtk-theme-config.desktop,xfce4-settings-editor.desktop,exo-file-manager.desktop,Xfce-Theme-Manager.desktop
 button-title=Applications Menu
 button-icon=xubuntu-logo-menu
 button-single-row=false

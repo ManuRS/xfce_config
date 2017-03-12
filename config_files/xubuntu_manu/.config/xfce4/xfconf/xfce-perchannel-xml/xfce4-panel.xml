@@ -122,8 +122,9 @@
         <value type="string" value="red"/>
         <value type="string" value="xchat"/>
         <value type="string" value="terminal de xfce"/>
-        <value type="string" value="boincmgr"/>
+        <value type="string" value="google-chrome-stable"/>
         <value type="string" value="gestor de tareas"/>
+        <value type="string" value="boincmgr"/>
         <value type="string" value="fluxgui"/>
         <value type="string" value="notificador de actualizaciones"/>
         <value type="string" value="hexchat"/>
@@ -331,21 +332,6 @@
         <value type="string" value="14294989535.desktop"/>
       </property>
     </property>
-    <property name="plugin-2" type="string" value="places">
-      <property name="flat-buttons" type="bool" value="true"/>
-      <property name="show-handle" type="bool" value="true"/>
-      <property name="show-labels" type="bool" value="true"/>
-      <property name="grouping" type="uint" value="0"/>
-      <property name="include-all-monitors" type="bool" value="true"/>
-      <property name="include-all-workspaces" type="bool" value="false"/>
-      <property name="middle-click" type="uint" value="0"/>
-      <property name="show-button-type" type="int" value="1"/>
-      <property name="show-only-minimized" type="bool" value="false"/>
-      <property name="show-wireframes" type="bool" value="false"/>
-      <property name="sort-order" type="uint" value="1"/>
-      <property name="switch-workspace-on-unminimize" type="bool" value="true"/>
-      <property name="window-scrolling" type="bool" value="true"/>
-    </property>
     <property name="plugin-20" type="string" value="launcher">
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
@@ -358,24 +344,6 @@
         <value type="string" value="14294989537.desktop"/>
       </property>
       <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-8" type="string" value="systray">
-      <property name="items" type="array">
-        <value type="string" value="14504322331.desktop"/>
-      </property>
-      <property name="digital-format" type="string" value="%d %b, %H:%M"/>
-      <property name="mode" type="uint" value="2"/>
-      <property name="show-frame" type="bool" value="true"/>
-      <property name="size-max" type="uint" value="22"/>
-      <property name="style" type="uint" value="0"/>
-      <property name="tooltip-format" type="string" value="%A %d %B %Y"/>
-      <property name="expand" type="bool" value="false"/>
-      <property name="names-visible" type="array">
-        <value type="string" value="fluxgui"/>
-        <value type="string" value="clipman"/>
-        <value type="string" value="notas"/>
-        <value type="string" value="red"/>
-      </property>
     </property>
     <property name="plugin-9" type="string" value="clock">
       <property name="items" type="array">
