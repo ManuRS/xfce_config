@@ -17,7 +17,7 @@ Instructions:
  - Run into a terminal:
  
  ```bash
-sudp apt install greybird-gtk-theme arc-theme moka-icon-theme
+sudo apt install greybird-gtk-theme arc-theme moka-icon-theme
 ```
 
  - Run the downloaded script
