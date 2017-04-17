@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Calendario
+Comment=Google Calendar
+Exec=google-chrome https://calendar.google.com/calendar/
+Icon=calendar-red-01
+Path=
+Terminal=false
+StartupNotify=false
+X-XFCE-Source=file:///home/manu/Escritorio/Calendario0.desktop

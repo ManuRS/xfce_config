@@ -1,0 +1,60 @@
+favorites=albert.desktop,midori.desktop,google-chrome.desktop,exo-file-manager.desktop,atom.desktop,sublime_text.desktop,code.desktop,gmusicbrowser.desktop,vlc.desktop,spotify.desktop,gnome-calculator.desktop,libreoffice-writer.desktop,hexchat.desktop,telegramdesktop.desktop,org.baedert.corebird.desktop,pavucontrol.desktop,xfce-settings-manager.desktop
+recent=sublime_text.desktop,dbx_preference.desktop,org.baedert.corebird.desktop,firefox.desktop,midori.desktop,google-chrome.desktop,exo-file-manager.desktop,blueman-manager.desktop,blueman-adapters.desktop,xfce-session-settings.desktop
+button-title=Applications Menu
+button-icon=xubuntu-logo-menu
+button-single-row=false
+show-button-title=false
+show-button-icon=true
+launcher-show-name=true
+launcher-show-description=false
+item-icon-size=1
+hover-switch-category=false
+category-icon-size=1
+load-hierarchy=true
+recent-items-max=10
+favorites-in-recent=true
+display-recent-default=false
+position-search-alternate=true
+position-commands-alternate=false
+position-categories-alternate=true
+menu-width=546
+menu-height=635
+menu-opacity=100
+command-settings=xfce4-settings-manager
+show-command-settings=true
+command-lockscreen=xflock4
+show-command-lockscreen=true
+command-switchuser=dm-tool switch-to-greeter
+show-command-switchuser=false
+command-logout=xfce4-session-logout
+show-command-logout=true
+command-menueditor=menulibre
+show-command-menueditor=true
+command-profile=mugshot
+show-command-profile=true
+search-actions=4
+
+[action0]
+name=Páginas del manual
+pattern=#
+command=exo-open --launch TerminalEmulator man %s
+regex=false
+
+[action1]
+name=Wikipedia
+pattern=!w
+command=exo-open --launch WebBrowser https://en.wikipedia.org/wiki/%u
+regex=false
+
+[action2]
+name=Abrir en la terminal
+pattern=!
+command=exo-open --launch TerminalEmulator %s
+regex=false
+
+[action3]
+name=Abrir una dirección URI
+pattern=^(file|http|https):\\/\\/(.*)$
+command=exo-open \\0
+regex=true
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mail
+Comment=WebMail de Google GMail
+Exec=google-chrome https://mail.google.com/mail/u/0/?hl=es#inbox
+Icon=gmail
+Path=
+Terminal=false
+StartupNotify=false
+X-XFCE-Source=file:///home/manu/Escritorio/Mail.desktop
